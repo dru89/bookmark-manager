@@ -1,0 +1,5 @@
+# Binary (root only, not cmd/bk/)
+/bk
+
+# OS
+.DS_Store
